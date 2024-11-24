@@ -13,7 +13,7 @@ This project organizes files in a specified directory based on their file extens
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/organizer_project.git
+   git clone https://github.com/Parth-243/Python-Projec--File_-Organizer-.git
    cd organizer_project
    ```
 
