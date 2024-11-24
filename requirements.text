@@ -1,0 +1,7 @@
+
+### 4. **`requirements.txt`**
+If any external libraries are required, they can be listed here. For this simple project, it might be empty or contain only standard libraries.
+
+```txt
+# requirements.txt
+# (Leave empty if no external libraries are required)
